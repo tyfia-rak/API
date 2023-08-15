@@ -1,2 +1,2 @@
-# API
+# Onboarding API
 Spécification de l'onboarding API
